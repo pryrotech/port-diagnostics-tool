@@ -3,6 +3,8 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-Tool-blue)
 ![License](https://img.shields.io/github/license/pryrotech/port-diagnostics-tool)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+[![GitHub all releases](https://img.shields.io/github/downloads/pryrotech/port-diagnostics-tool/total.svg)](https://github.com/pryrotech/port-diagnostics-tool/releases)
+
 
 **Portman** is a PowerShell-based utility designed for technicians to assess the reliability of various ports on a device. By actively polling connected ports and logging connection drops, Portman helps identify intermittent failures that may warrant hardware replacement.
 
